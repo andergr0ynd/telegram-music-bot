@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="243" height="61" viewBox="0 0 243 61">
+  <rect x="1" y="1" width="241" height="59" rx="12" fill="#193b4b" stroke="#4e8195"/>
+  <path d="M21 21h18v14H29l-6 5v-5h-2z" stroke="#e7f7fc" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="53" y="37" fill="#f2fbff" font-size="17" font-weight="600" font-family="Segoe UI, Arial, sans-serif">Обсудить на GitHub</text>
+</svg>
